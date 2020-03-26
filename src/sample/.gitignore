@@ -1,0 +1,4 @@
+# Defaul ignored files
+out/
+.idea/
+*.iml
